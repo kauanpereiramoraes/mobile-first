@@ -8,6 +8,6 @@ background-color: var(--cor-de-fundo);
 <h1>Alurabook</h1>
 </body>
 :root {
-  --cor-de-fundo: #EBECEE;
-  --branco:  #FFFFFF;
+  --cor-de-fundo: # EBECEE;
+  --branco:  # FFFFFF;
 }
