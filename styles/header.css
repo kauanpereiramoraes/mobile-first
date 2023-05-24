@@ -13,3 +13,10 @@
 .container_botao:checked~.container_rotulo{
   background:var(--azul-degrade);
   }
+  .cabeçalho{
+    background-color:var(--branco);
+    display: flex;
+    justify-content: space-between;
+    aligne-items: center;
+    position: relative;
+  }
