@@ -140,3 +140,24 @@
   -webkit-text-fill-color:var(--branco);
   text-decoration: none;
 }
+
+@media screen and (min-width: 1728) {
+  .container__link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: var(--preto);
+  }
+
+.cabeçalho {
+  padding: 0 2em;
+}
+
+.opções {
+  margin-right: auto;
+}
+
+.container__texto {
+  display: block;
+  }
+}
